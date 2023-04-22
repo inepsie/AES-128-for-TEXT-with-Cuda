@@ -13,3 +13,6 @@ Les résultats sont écrit au fur et à mesure dans les fichiers "aesTestX" et s
 
 Nous pouvons constater que l'augmentation du nombre de threads par bloc jusqu'à 1024 (le maximum sur ma machine) est profitable. Plus le nombre de threads
 par bloc est important moins l'augmentation du temps d'exécution est importante pour une m^eme augmentation de taille de donnée.
+
+![Screenshot Particules](./aesBench_0to10.png?raw=true)
+
